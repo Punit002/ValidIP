@@ -1,6 +1,4 @@
-﻿using System.Net.NetworkInformation;
-
-namespace ValidIP
+﻿namespace ValidIP
 {
     internal class Program
     {
